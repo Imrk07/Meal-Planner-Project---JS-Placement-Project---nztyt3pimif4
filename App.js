@@ -4,7 +4,7 @@ const age = document.getElementById("age");
 const gender = document.getElementById("gender");
 const activity = document.getElementById("activity");
 const form = document.getElementById("mealForm");
-
+const mealcontainer = document.getElementById("meals");
 const submitbtn = document.getElementById("submitBtn");
 
 let bmr = 0;
